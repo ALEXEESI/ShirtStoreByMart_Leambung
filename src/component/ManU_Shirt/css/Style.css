@@ -141,19 +141,3 @@ footer{
     background-color: rgb(229, 229, 229);
     border: none;
 }
-
-.Back_button{
-    padding: 1px;
-    border: none;
-    stroke: transparent;
-    cursor: pointer;
-    margin: 1.5%;
-    background-color: transparent;
-    align-items: center;
-}
-
-.back{
-    width: 30px;
-    height: 30px;
-    align-items: center;
-}

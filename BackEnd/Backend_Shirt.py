@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, request
+from flask import Flask, jsonify, request 
 from flask_cors import CORS
 from pymongo.mongo_client import MongoClient
 from pymongo.server_api import ServerApi
@@ -204,3 +204,6 @@ if __name__ == "__main__":
 
 
 # vofrhuh
+
+#-----------------------------------------------------------------
+#detail product page
